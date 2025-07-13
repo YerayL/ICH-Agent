@@ -5,9 +5,9 @@ The code of our paper "[**LLM-Driven Decision Support and Digital Avatar Patient
 
 # Quick Links
 + [Overview](#overview)
-+ [Deep Learning-Based Segmentation](#Deep Learning-Based Segmentation)
-+ [Domain-Enhanced Large Language Model for Clinical Decision Support](#Domain-Enhanced Large Language Model for Clinical Decision Support)
-+ [Digital Avatar Video Synthesis](#Digital Avatar Video Synthesis)
++ [Deep Learning-Based Segmentation](#deep-learning-based-segmentation))
++ [Domain-Enhanced Large Language Model for Clinical Decision Support](#domain-enhanced-large-language-model-for-clinical-decision-support)
++ [Digital Avatar Video Synthesis](#digital-avatar-video-synthesis)
 + [Experiments](#experiments)
 
 
