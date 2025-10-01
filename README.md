@@ -82,7 +82,7 @@ For more usage details, you can refer to [this](https://docs.vllm.ai/en/latest/)
 
 # Digital Avatar Video Synthesis
 
-## Heygem
+## Duix.Avatar（formerly  Heygem）
 
 Install the server:
 
