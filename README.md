@@ -8,7 +8,6 @@
 + [Deep Learning-Based Segmentation](#deep-learning-based-segmentation)
 + [Domain-Enhanced Large Language Model for Clinical Decision Support](#domain-enhanced-large-language-model-for-clinical-decision-support)
 + [Digital Avatar Video Synthesis](#digital-avatar-video-synthesis)
-+ [Contributing](#contributing)
 + [License](#license)
 
 
@@ -101,11 +100,6 @@ Install the client:
 2. Double click `HeyGem-x.x.x.AppImage` to launch it. No installation is required.
 
 For more usage details, you can refer to [this](https://github.com/duixcom/Duix.Heygem?tab=readme-ov-file#3-how-to-run-locally).
-
-
-
-# Contributing
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.  
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
