@@ -36,7 +36,7 @@ pip install nnunetv2
 
 For more usage details, you can refer to [this](https://github.com/MIC-DKFZ/nnUNet?tab=readme-ov-file#how-to-get-started).
 
-## MedNext 
+<!-- ## MedNext 
 
 To set up MedNext, you can run the following command:
 
@@ -46,7 +46,7 @@ cd mednext
 pip install -e .
 ```
 
-For more usage details, you can refer to [this](https://github.com/MIC-DKFZ/MedNeXt?tab=readme-ov-file#usage-of-internal-training-pipeline).
+For more usage details, you can refer to [this](https://github.com/MIC-DKFZ/MedNeXt?tab=readme-ov-file#usage-of-internal-training-pipeline). -->
 
 <!-- ## nnU-Net V2 with ChannelGate
 
