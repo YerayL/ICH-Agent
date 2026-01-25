@@ -14,7 +14,7 @@
 # Overview
 
 <div style="text-align: center;">
-  <img src="figs/fig2.jpg" width="80%">
+  <img src="figs/fig.jpg" width="80%">
 </div>
 The ICH-Agent utilizes a combination of deep learning models for segmentation and reasoning, integrated into a seamless workflow for clinical applications.  
 
@@ -48,9 +48,9 @@ pip install -e .
 
 For more usage details, you can refer to [this](https://github.com/MIC-DKFZ/MedNeXt?tab=readme-ov-file#usage-of-internal-training-pipeline).
 
-## nnU-Net V2 with ChannelGate
+<!-- ## nnU-Net V2 with ChannelGate
 
-Please replace the `dynamic_network_architectures/unet_decoder.py` in `nnU-Net V2` with `src/unet_decoder.py`
+Please replace the `dynamic_network_architectures/unet_decoder.py` in `nnU-Net V2` with `src/unet_decoder.py` -->
 
 #  Domain-Enhanced Large Language Model for Clinical Decision Support
 
