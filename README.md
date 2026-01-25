@@ -13,10 +13,9 @@
 
 # Overview
 
-<center>
-<img src="figs/fig2.jpg" width="80%">
-</center>
-
+<div style="text-align: center;">
+  <img src="figs/fig2.jpg" width="80%">
+</div>
 The ICH-Agent utilizes a combination of deep learning models for segmentation and reasoning, integrated into a seamless workflow for clinical applications.  
 
 # Key Features
