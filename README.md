@@ -103,7 +103,7 @@ For more usage details, you can refer to [this](https://github.com/duixcom/Duix.
 ## Example
 <!-- mp4格式 -->
 <video id="video" controls="" preload="none" poster="video example">
-      <source id="mp4" src="video example" type="video/video_example.mp4">
+      <source id="mp4" src="video/video_example.mp4" type="video/mp4">
 </videos>
 
 # License
