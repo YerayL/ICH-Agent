@@ -14,7 +14,7 @@
 # Overview
 
 <div style="text-align: center;">
-  <img src="figs/fig.jpg" width="80%">
+  <img src="fig/fig.jpg" width="80%">
 </div>
 The ICH-Agent utilizes a combination of deep learning models for segmentation and reasoning, integrated into a seamless workflow for clinical applications.  
 
@@ -99,6 +99,12 @@ Install the client:
 2. Double click `HeyGem-x.x.x.AppImage` to launch it. No installation is required.
 
 For more usage details, you can refer to [this](https://github.com/duixcom/Duix.Heygem?tab=readme-ov-file#3-how-to-run-locally).
+
+## Example
+<!-- mp4格式 -->
+<video id="video" controls="" preload="none" poster="video example">
+      <source id="mp4" src="video example" type="video/video_example.mp4">
+</videos>
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
