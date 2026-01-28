@@ -106,5 +106,11 @@ For more usage details, you can refer to [this](https://github.com/duixcom/Duix.
       <source id="mp4" src="https://github.com/YerayL/ICH-Agent/blob/main/video/video_example.mp4" type="video/mp4">
 </videos>
 
+
+https://github.com/user-attachments/assets/6876b47a-b4af-4d4d-8804-3d23dbf8dc18
+
+
+
+
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
