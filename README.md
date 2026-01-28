@@ -101,16 +101,7 @@ Install the client:
 For more usage details, you can refer to [this](https://github.com/duixcom/Duix.Heygem?tab=readme-ov-file#3-how-to-run-locally).
 
 ## Example
-<!-- mp4格式 -->
-<video id="video" controls="" preload="none" poster="video example">
-      <source id="mp4" src="https://github.com/YerayL/ICH-Agent/blob/main/video/video_example.mp4" type="video/mp4">
-</videos>
-
-
-https://github.com/user-attachments/assets/6876b47a-b4af-4d4d-8804-3d23dbf8dc18
-
-
-
+https://github.com/user-attachments/assets/09b6615a-c77b-42bc-b92f-4ad3f84f1777
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
